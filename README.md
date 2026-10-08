@@ -24,6 +24,20 @@ smallest set of payments needed to settle everyone up.
 |---|---|
 | ![Dashboard](./screenshots/dashboard.png) | ![Balances](./screenshots/balances.png) |
 
+### More screens
+
+| Sign up | Your groups |
+|---|---|
+| ![Sign up](./screenshots/signup.png) | ![Your groups](./screenshots/your-groups.png) |
+
+| Group page | Add expense (equal split) |
+|---|---|
+| ![Group page](./screenshots/group-page.png) | ![Add expense equally](./screenshots/add-expense-equal.png) |
+
+| Add expense (custom split) |
+|---|
+| ![Add expense custom](./screenshots/add-expense-custom.png) |
+
 ---
 
 ## ✨ Features
