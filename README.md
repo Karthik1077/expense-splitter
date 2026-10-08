@@ -12,14 +12,6 @@ smallest set of payments needed to settle everyone up.
 
 ---
 
-## 📸 Screenshots
-
-<!--
-  Add your own screenshots here before pushing to GitHub — see the
-  "Adding screenshots" section near the bottom of this file for exactly
-  how to capture and drop them in so they render on your repo page.
--->
-
 | Dashboard | Group & Balances |
 |---|---|
 | ![Dashboard](./screenshots/dashboard.png) | ![Balances](./screenshots/balances.png) |
@@ -143,20 +135,6 @@ expense-splitter/
 - [ ] Export group expenses to CSV
 
 ---
-
-## 📷 Adding screenshots (before you push to GitHub)
-
-1. Run the app locally (`npm run dev` in both `server` and `client`)
-2. Open it in your browser, press **Windows + Shift + S** to take a screenshot, select the app window
-3. In your `expense-splitter` project folder, create a new folder called `screenshots`
-4. Paste each screenshot in there (e.g. `dashboard.png`, `balances.png`) — Ctrl+V works directly into File Explorer
-5. The markdown table above already references these exact filenames, so once they exist, they'll render automatically on your GitHub repo page
-
-**Want a demo GIF instead of static images?** Install [ScreenToGif](https://www.screentogif.com/) (free), record a 10–15 second clip of you adding an expense and checking balances, save it as `demo.gif` in the `screenshots` folder, and add this near the top of the file:
-
-```markdown
-![Demo](./screenshots/demo.gif)
-```
 
 ---
 
